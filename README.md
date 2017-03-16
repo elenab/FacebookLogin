@@ -14,6 +14,8 @@ See the CocoaPods Guides for more information on installing and updating pods.
 
 
 ------
+Make sure to use your own facebook appID and secret in Info.plist as well as youtubeApiKey in ViewController.swift !
+------
 
 Screenshots:
 
